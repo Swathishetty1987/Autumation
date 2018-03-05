@@ -9,7 +9,7 @@ import Page.ProductPage;
 import Page.SolitairePage;
 
 public class AddToCart extends BaseTest {
-
+//commit
 	public void testlogin() throws Exception
 	{
 		HomePage h=new HomePage(driver);
